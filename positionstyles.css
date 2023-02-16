@@ -174,7 +174,7 @@
 /* Activity 6 styles */ 
 .content6 {
   /* This is the parent of the activity 6 boxes. */
-  grid-template-columns: 50px 50px 50px 50px 50px;
+  grid-template-columns: 50px 50px 50px 50px;
   justify-items: center;
 
 }
